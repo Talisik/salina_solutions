@@ -1,5 +1,5 @@
 {
-  "name": "@talisik/salina_solutions",
+  "name": "@kim-talisik/salina_solutions",
   "version": "1.0.0",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
